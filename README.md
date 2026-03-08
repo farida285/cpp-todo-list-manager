@@ -78,17 +78,18 @@ This project helped practice and apply:
 
 ## Example Menu
 ================ TO-DO LIST MANAGER ================
-1.Add New Task
-2.View All Tasks
-3.View Pending Tasks
-4.View Completed Tasks
-5.View Task Details
-6.Edit Task
-7.Mark Task as Done
-8.Mark Task as Pending
-9.Delete Task
-10.Delete All Tasks
-11.Exit
+1. Add New Task
+2. View All Tasks
+3. View Pending Tasks
+4. View Completed Tasks
+5. View Task Details
+6. Edit Task
+7. Mark Task as Done
+8. Mark Task as Pending
+9. Delete Task
+10. Delete All Tasks
+11. Exit
+
 ---
 
 ## Author
@@ -96,5 +97,4 @@ This project helped practice and apply:
 Farida Mahmoud
 
 ---
-
 This project is part of my journey in strengthening my programming fundamentals and improving problem-solving skills using C++.
