@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+#include <string>
 using namespace std ;
 const unsigned short MAX_TASKS = 100;
 enum enOperation {
@@ -438,3 +439,4 @@ int main (){
     StartToDOListManager();
     return 0 ;
 }
+
